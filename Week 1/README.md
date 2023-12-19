@@ -4,7 +4,7 @@ I am delighted to welcome you to the WIDS 2023-24, where we'll start Algorithmic
 
 In week 1, we will start with revising python and learning about basic data science libraries, such as numpy, pandas, matplotlib. These libraries are essential tools for data manipulation, visualization, and machine learning. You will also get familiar with Jupyter notebooks, which are interactive environments for coding and documenting your data science projects.
 
-I hope you are excited and ready for this program, as I am. Please feel free to reach out to your fellow mentees in case of any difficulties.
+I hope you are excited and ready for this program, as I am. Embrace the challenge, explore the vast resources available on the internet, and take the initiative to learn and grow. Collaboration with your fellow mentees is encouraged, but also be prepared to tackle difficulties independently.
 
 ### **Installation and Setup**
 
@@ -110,4 +110,24 @@ Check out https://www.tutorialspoint.com/scikit_learn/scikit_learn_introduction.
 → Split into training and evaluation sets
 
 Learn more about [Data Preparation](https://www.alteryx.com/glossary/data-preparation) and **Exploratory Data Analysis** which is arguably the most important step. Here's a good [Youtube Playlist](https://youtube.com/playlist?list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9) for EDA. [Here's](https://www.youtube.com/watch?v=v5dqavbyE-I) a short video recap for EDA.
+
+## *File Handling*
+Since we have covered a good number of topics , we are keeping File Handling as optional.Those who are interested in learning this can go through the article below.
+
+Files are named locations on disk to store related information. They are used to permanently store data in a non-volatile memory (e.g. hard disk). Since Random Access Memory (RAM) is volatile (which loses its data when the computer is turned off), we use files for future use of the data by permanently storing them. When we want to read from or write to a file, we need to open it first. When we are done, it needs to be closed so that the resources that are tied with the file are freed.
+
+Hence, in Python, a file operation takes place in the following order:
+
+* Open a file
+* Read or write (perform operation)
+* Close the file
+
+To read more about File Handling refer [this](https://www.geeksforgeeks.org/file-handling-python/)
+
+
+This brings us to the end of this week's material. By now you should  be familiar with the basics of python. You should have a good enough idea about concepts like data types, loops, operators, iterators, functions, modules and packages, classes in python. Do go through the assignment after finishing the reading material. It will give you a chance to apply these concepts and practice your skills. Next week we will learn to use python in the field of data analysis. 
+
+## Assignment
+
+You should now be able to complete the snippet of code designed to read a particular piece of text and answer user's queries about certain words by printing the context in which these words appeared in the text. You can find it as a Jupyter Notebook [here](https://github.com/mohak2003/WIDS-23-24/blob/main/Week%201/assignment-1.ipynb).
 
