@@ -6,6 +6,32 @@ In week 1, we will start with revising python and learning about basic data scie
 
 I hope you are excited and ready for this program, as I am. Please feel free to reach out to your fellow mentees in case of any difficulties.
 
+### **Installation and Setup**
+
+Visit this link for a detailed guide on installing and setting up Python - [Python Installation and Setup](https://wiki.python.org/moin/BeginnersGuide/Download)
+
+### **Introduction to Jupyter Notebooks**
+
+Jupyter notebook is a web based notebook environment which is widely used for interactive programming, that is, code execution combined with rich markdown text and much more. The Jupyter notebook runs a local Ipython kernel on your machine and launches in your web browser. These notebooks are also called as Ipython notebooks, and have a '.ipynb' extension instead of traditional '.py' extension for Python files. All the assignments for this course are made in Jupyter notebooks and you are expected to complete them in the notebook itself. Hence, it is important for you to get aquainted with Jupyter notebooks.
+
+Visit this link for installing and setting up a basic notebook - [Setting up Jupyter Notebook](https://realpython.com/jupyter-notebook-introduction/). The link also teaches you to write and execute a basic Python code in a Notebook cell.
+
+### **Google Colab**
+Google Colab is a platform provided by Google, which runs a Jupyter notebook in the cloud. While it is a convenient way to get set up, there are some caveats you would like to know before it.
+The setup is platform agnostic i.e. all you need is a browser. The recommended way to get started is first logging in to Google. Sign in > Head to the home page for Google Colab [here](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) > click on New Notebook.
+From this point, everything is basically the same as a Jupyter notebook.
+
+
+### Instructions on downloading and using notebooks
+
+1. Open the respective `.ipynb` file on GitHub
+2. In the upper right corner, there are several buttons and icons including the ones shown below. Click on the Raw Button.
+       Raw | Blame
+      --- | ---
+      
+3. The python notebook opens as raw text in browser. Right click->Save as OR just press CTRL + S. Save the notebook, open it using Jupyter Notebook you just installed and start learning! 
+
+
 Below are some resources for you to follow :
 
 1. Python:
