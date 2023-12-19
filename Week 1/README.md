@@ -1,8 +1,6 @@
 Dear Mentees,
 
-I am delighted to welcome you to the WIDS 2023-24, where you will learn Algorithmic trading and apply Deep learning approaches to predict stock market prices. You have been selected from a pool of talented and motivated applicants, and I am proud to be your mentor for this journey.
-
-Congratulations on getting your SOP selected! Your SOP demonstrated your passion, curiosity, and creativity for data science, and I am impressed by your achievements and goals. You have taken the first step towards becoming a data scientist, and I am here to guide you and support you along the way.
+I am delighted to welcome you to the WIDS 2023-24, where we'll start Algorithmic trading and apply Deep learning approaches to predict stock market prices. You have been selected from a pool of talented and motivated applicants, and I am proud to be your mentor for this journey.
 
 In week 1, we will start with revising python and learning about basic data science libraries, such as numpy, pandas, matplotlib. These libraries are essential tools for data manipulation, visualization, and machine learning. You will also get familiar with Jupyter notebooks, which are interactive environments for coding and documenting your data science projects.
 
