@@ -1,4 +1,4 @@
-Dear Mentees,
+Hi Mentees,
 
 I am delighted to welcome you to the WIDS 2023-24, where we'll start Algorithmic trading and apply Deep learning approaches to predict stock market prices. You have been selected from a pool of talented and motivated applicants, and I am proud to be your mentor for this journey.
 
