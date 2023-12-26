@@ -78,6 +78,9 @@ Implementing a Strategy combining [Mean Reversion](https://www.investopedia.com/
 
 #### Imp.
 For next week content, I suggest you apply financial aid for the following courses beforehand as they may help:
-"Introduction to Deep Learning" under Neural Networks and Deep Learning Specialisation in coursera by Andrew NG.\n
-"Convolutional Neural Networks" under Neural Networks and Deep Learning Specialisation in coursera by Andrew NG.\n
+
+"Introduction to Deep Learning" under Neural Networks and Deep Learning Specialisation in coursera by Andrew NG.
+
+"Convolutional Neural Networks" under Neural Networks and Deep Learning Specialisation in coursera by Andrew NG.
+
 "Sequence Models" under Neural Networks and Deep Learning Specialisation in coursera by Andrew NG.
