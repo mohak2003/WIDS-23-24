@@ -75,3 +75,9 @@ Pre-defined functions from the sklearn library may help you with this task!
 #### Mean Reversion and Momentum
 
 Implementing a Strategy combining [Mean Reversion](https://www.investopedia.com/terms/m/meanreversion.asp) and Momentum into one.
+
+#### Imp.
+For next week content, I suggest you apply financial aid for the following courses beforehand as they may help:
+"Introduction to Deep Learning" under Neural Networks and Deep Learning Specialisation in coursera by Andrew NG.
+"Convolutional Neural Networks" under Neural Networks and Deep Learning Specialisation in coursera by Andrew NG.
+"Sequence Models" under Neural Networks and Deep Learning Specialisation in coursera by Andrew NG.
